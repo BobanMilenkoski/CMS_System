@@ -1,0 +1,1 @@
+To setup this project you will need to import the database file in your own db.
